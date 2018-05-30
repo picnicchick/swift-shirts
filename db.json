@@ -1,0 +1,67 @@
+{
+  "shirts": [
+    {
+      "id": 1,
+      "title": "Teal Vintage Tee",
+      "description": "Vintage tee featuring artwork from Taylor's first album. Tour dates on back.",
+      "price": 50,
+      "image": "https://i.pinimg.com/736x/a6/f9/1e/a6f91e2b64d3375df52cc9e1fd4fccfc--warm-jersey.jpg"
+    },
+    {
+      "id": 2,
+      "title": "White Vintage Tee",
+      "description": "Vintage tee featuring artwork from Taylor's first album.",
+      "price": 50,
+      "image": "http://ecx.images-amazon.com/images/I/41Db2sZ2BUL.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Black Vintage Tee",
+      "description": "Vintage tee featuring artwork from Taylor's first album. Tour dates on back.",
+      "price": 50,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615wski2O5L._UX385_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Black RED Tour Tee",
+      "description": "RED Tour tee featuring artwork from Taylor's RED album. Tour dates on back.",
+      "price": 40,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71jW8omI-WL._UX385_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Grey RED Tour Tee",
+      "description": "RED Tour tee featuring Taylor, with tour dates on back.",
+      "price": 40,
+      "image": "https://i.pinimg.com/originals/f9/d8/5c/f9d85c864d756fc973ec4d7705e970e2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "White RED Tour Tee",
+      "description": "RED Tour tee featuring Taylor, with tour dates on back.",
+      "price": 40,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61AE-C7ZfdL._UX385_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "White 1989 World Tour Tee",
+      "description": "1989 World Tour tee featuring artwork from Taylor's 1989 album. Tour dates on back.",
+      "price": 45,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vOaxyB6CL._UX385_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Black 1989 World Tour Tee",
+      "description": "1989 World Tour tee featuring stylised writing front and back.",
+      "price": 45,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61QV6%2BwahHL._UX385_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Blue 1989 World Tour Tee",
+      "description": "1989 World Tour tee featuring Taylor, with tour dates on back.",
+      "price": 45,
+      "image": "http://ecx.images-amazon.com/images/I/5175vFbWcKL.jpg"
+    }
+  ]
+}
